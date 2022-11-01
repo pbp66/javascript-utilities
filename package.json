@@ -1,0 +1,14 @@
+{
+  "name": "004-javascript-utilities",
+  "version": "1.0.0",
+  "description": "Collection of local javascript utility files and packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "pbp66",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
